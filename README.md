@@ -1,4 +1,4 @@
-# php-lightweight-web-profiler
+# Lightweight web profiler
 Lightweight web profiler with user interface showing essential information for PHP pages, no configuration required.
 
 The information it shows is:
